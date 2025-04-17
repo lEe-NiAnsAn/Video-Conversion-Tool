@@ -10,7 +10,7 @@ One small tool to convert  the videos to AVI using OpenCV
 - 创建一个工作文件夹，将待处理文件置于其中
 - 打开程序目录
 - 使用鼠标将待处理文件拖至程序（.exe文件）上方并使用本程序打开
-- 处理完毕，输出output文件夹
+- 处理完毕，程序自动于工作文件夹内输出output文件夹，内含处理后文件
   
 **例如：**
  ```cmd
