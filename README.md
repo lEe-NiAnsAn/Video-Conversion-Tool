@@ -5,6 +5,12 @@ One small tool to convert  the videos to AVI using OpenCV
 - 运行安装程序，添加程序目录
 - 使用 `cmd` 打开程序目录
 - 命令行中输入 “程序名”+“待处理文件URL”+“输出URL”
+
+### <ins>简易方式</ins>
+- 创建一个工作文件夹，将待处理文件置于其中
+- 打开程序目录
+- 使用鼠标将待处理文件拖至程序（.exe文件）上方并使用本程序打开
+- 处理完毕，输出output文件夹
   
 **例如：**
  ```cmd
